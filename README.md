@@ -29,4 +29,4 @@ My name is Alexander Kiselov, and I'm a software developer.
 ## Contact me
 
 <a href="https://t.me/kiselaw"><img alt="Docker" title="Telegram" src="https://camo.githubusercontent.com/39db39da6e1aac8ecc67f49a02e4a115318c211694e0a1e2b6eb775ba28c6e29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" height="42"></a>
-<a href="ProstoCOS@gmail.com"><img alt="E-mail" title="E-mail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="42"></a>
+<a href="mailto:ProstoCOS@gmail.com"><img alt="E-mail" title="E-mail" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="42"></a>
