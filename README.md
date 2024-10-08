@@ -23,7 +23,7 @@ My name is Alexander Kiselov, and I'm a software developer.
 
 ## GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiselaw&hide=java,html,tex&title_color=0d0d0d&text_color=0d0d0d&icon_color=2bbc8a&bg_color=f3f3f3&langs_count=3" alt="PL GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiselaw&hide=html,css,tex&title_color=0d0d0d&text_color=0d0d0d&icon_color=2bbc8a&bg_color=f3f3f3&langs_count=3" alt="PL GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Kiselaw&show_icons=true&line_height=27&count_private=true&title_color=0d0d0d&text_color=0d0d0d&icon_color=2c6fc3&bg_color=f3f3f3" alt="General GitHub Stats" />
 
 ## Contact me
