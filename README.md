@@ -28,5 +28,6 @@ My name is Alexander Kiselov, and I'm a software developer.
 
 ## Contact me
 
-<a href="https://t.me/kiselaw"><img alt="Docker" title="Telegram" src="https://camo.githubusercontent.com/39db39da6e1aac8ecc67f49a02e4a115318c211694e0a1e2b6eb775ba28c6e29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" height="42"></a>
+<a href="https://t.me/kiselaw"><img alt="Telegram" title="Telegram" src="https://camo.githubusercontent.com/39db39da6e1aac8ecc67f49a02e4a115318c211694e0a1e2b6eb775ba28c6e29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" height="42"></a>
 <a href="mailto:ProstoCOS@gmail.com"><img alt="E-mail" title="E-mail" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="42"></a>
+<a href="https://www.linkedin.com/in/alexander-kiselov-6a0a74332/"><img alt="LinkedIn" title="Telegram" src="https://camo.githubusercontent.com/e9592fd6ea20b888ed3c7621d8c7257835af4f2e7232e92f5db4e9e2e4e91380/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" height="42"></a>
